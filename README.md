@@ -4,5 +4,5 @@
 </a>
 
 
-$\color{grey}{\text{captured by me, also check my sp}}$
+
 
